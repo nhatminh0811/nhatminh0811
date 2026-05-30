@@ -15,14 +15,9 @@
 
 
 
-### 🌱 Currently
 
-- 🤝 Open to collaborate on: **AI-driven applications, web development projects, machine learning solutions, and backend API development.**
-- 💬 Ask me about: **Generative AI applications, Computer Vision techniques, and web development with modern frameworks.**
 
----
-
-### 📫 Let's Connect
+### 📫  Connect
 
 <div align="center">
 
