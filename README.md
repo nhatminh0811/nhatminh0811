@@ -30,20 +30,6 @@
 
 </div>
 
----
 
-### ✍️ Blog & Content
-
----
-
-### 💖 Support My Work
-
----
-
-<div align="center">
-
-⚡ Engaged and supported new students during orientation week events, assisting them with campus navigation and integration.
-
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,19&height=100&section=footer)
