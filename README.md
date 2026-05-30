@@ -1,5 +1,5 @@
 # 💫 About Me:
-Final-year Computer Science student with a strong foundation in Generative AI, Computer Vision, and Web development. Proven<br>ability to self-learn and apply new tech stacks quickly through various academic and practical projects. Highly motivated, hardworking,<br>and deeply committed to continuous learning, looking forward to bringing energy and a growth mindset to an AI Engineer Intern role.<br>
+Final-year Computer Science student.<br>
 
 
 ## 🌐 Socials:
