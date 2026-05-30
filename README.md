@@ -2,9 +2,8 @@
 
 <div align="center">
 
-### AI Engineer Intern | Ha Dong, Ha Noi
-
-Final-year Computer Science student with a strong foundation in Generative AI, Computer Vision, and Web development. Proven ability to self-learn and apply new tech stacks quickly through various academic and practical projects. Highly motivated, hardworking, and deeply committed to continuous learning.
+### AI Engineer 
+ Computer Science student.
 
 </div>
 
